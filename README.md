@@ -1,6 +1,6 @@
-"<div align="center">
+<div align="center">
 
-# 🏆 SecurinetsISETZ x D6ath E9ters CTF - Official Writeups
+# 🏆 SecurinetsISETZ x D6ath E9ters CTF - My Official Writeups
 
 [![CTF](https://img.shields.io/badge/CTF-SecurinetsISETZ%20x%20D6ath%20E9ters-red?style=for-the-badge)](https://github.com/bnahmedsoumaya00/SecurinetsISETZ-x-D6ath-E9ters-CTF-Writeup)
 [![Season](https://img.shields.io/badge/Season-2024--2025-blue?style=for-the-badge)](https://github.com/bnahmedsoumaya00/SecurinetsISETZ-x-D6ath-E9ters-CTF-Writeup)
