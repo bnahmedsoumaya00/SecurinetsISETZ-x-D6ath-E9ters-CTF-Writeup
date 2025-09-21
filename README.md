@@ -11,7 +11,6 @@
 
 ---
 
-## 📖 About This Repository
 
 ## 📖 About This Repository
 
